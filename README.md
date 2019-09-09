@@ -1,4 +1,4 @@
-# TIRSDAG
+# TIRSDAG - www.simonskodebiks.com
 
 ###  What is your public IP address right now, and how did you find it?
 	80.71.142.172.
